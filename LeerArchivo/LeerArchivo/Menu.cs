@@ -110,7 +110,7 @@ namespace LeerArchivo
 
         public List<Album> ObtenerAlbum()
         {
-            Album a = new Album();//instancia de shinobi para manejar objetos
+            Album a = new Album();
             var lineas = ObtenerLineas("Lista.txt");//jalas tu lista con un var para optimizar
             List<Album> al = new List<Album>();
             //foreach para buscar en la lista de strings
