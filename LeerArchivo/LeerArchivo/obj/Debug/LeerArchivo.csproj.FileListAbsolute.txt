@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe.config
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.pdb
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.exe
+C:\Users\lyss_\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.pdb
